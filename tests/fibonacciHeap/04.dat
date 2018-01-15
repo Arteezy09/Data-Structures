@@ -1,0 +1,23 @@
+insert 30
+insert 7
+insert 15
+print
+delete 15
+print
+insert 700
+insert 600
+insert 500
+print
+delete 600
+print
+delete 7
+print
+
+
+
+
+
+
+
+
+

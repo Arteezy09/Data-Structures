@@ -1,0 +1,27 @@
+insert 30
+insert 7
+insert 15
+print
+decrease 30 5
+print
+insert 10
+insert 54
+print
+decrease 54 45
+print
+insert 28
+insert 970
+insert 4
+print
+decrease 970 600
+print
+decrease 4 2
+print
+
+
+
+
+
+
+
+

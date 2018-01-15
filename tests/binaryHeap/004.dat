@@ -1,0 +1,14 @@
+insert 40
+insert 30
+insert 50
+insert 10
+print
+delete 2
+print
+delete 1
+print
+insert 45
+insert 5
+print
+delete 3
+print

@@ -1,0 +1,11 @@
+insert 25
+insert 60
+insert 20
+print
+decrease 1 10
+print
+insert 50
+insert 5
+print
+decrease 2 3
+print

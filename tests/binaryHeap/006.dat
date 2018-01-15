@@ -1,0 +1,5 @@
+print
+extract
+insert 5
+decrease 0 10
+delete 1

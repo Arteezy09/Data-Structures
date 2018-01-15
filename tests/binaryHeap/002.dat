@@ -1,0 +1,14 @@
+insert 3
+insert 10
+insert 20
+insert 5
+print
+extract
+print
+insert 2
+insert 6
+print
+extract
+print
+extract
+print
